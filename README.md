@@ -21,7 +21,7 @@
         <p style="text-align:left; font-family:Arial; text-indent:40px">Самые свежие и интересные новости по мемы только у нас. Для того, чтобы с ними ознакомиться вам нужно: <br/> 1. Зайти на главную страницу. <br/> 2. Найти кнопку "Новости мемов" и перейти по ней (Или перейдите по кнопке ниже). 3. Читайте новости с удовольствием. <br/> <i> Приятного чтения наших новостей :P.</i> </p>
     <a href="http://memeshop.tilda.ws/memenews"><button>Новости мемов</button></a>  
     </main>
-    <footer style="background:grey" id="questions"> <p> <h2  id="questions">Если у вас возникли какие-то вопросы или ошибки в использовании наших сервисов - пишите на нашу почту memeshop@gmail.com. Менеджер отвечает в течении суток.</h2><br/> <p style="text-align:center; font-size:20px"> <a href="#nazad" style="color:black;">Вернуться в начало страницы.</a></p>
+    <footer style="background:grey" id="questions"> <p> <h2  id="questions">Если у вас возникли какие-то вопросы или ошибки в использовании наших сервисов - пишите на нашу почту memeshop@gmail.com. Менеджер отвечает в течении суток.</h2><br/></p> <p style="text-align:center; font-size:20px"> <a href="#nazad" style="color:black;">Вернуться в начало страницы.</a></p>
     </footer>
     </body>
 </html>
