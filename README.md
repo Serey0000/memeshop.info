@@ -6,7 +6,7 @@
         <h2  id="nazad"></h2>
         <p style="text-align:center; font-size:20px"> <a href="#questions" style="color:grey;">Возникли вопросы?</a> </p>
          <img src="https://drive.google.com/uc?export=view&id=
-1ZDrzaCGJSj5ECToyEmtVSe7BNKghXLjK" width="700">
+1ZDrzaCGJSj5ECToyEmtVSe7BNKghXLjK" width="1000">
         </header>
         <main>
             <h1 style="text-align:center; font-family:Arial">Каталог</h1>
